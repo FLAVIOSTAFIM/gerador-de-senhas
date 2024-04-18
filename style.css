@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 body{
-    <background-color: var(--cinza);
+    background-color: var(--cinza);
 }
 
 :root{
@@ -59,9 +59,8 @@ body{
 .parametro-senha_botao {
     background-color:var(--ouro);
     border:2px solid var(--rosa);
-    border-bottom:2px solid var(--rosa);
-    background-color: var(--ouro);
-    margin:0;
+    padding: 10px ;
+    cursor: pointer;
 }
 
 .parametro-senha_texto {
@@ -76,7 +75,7 @@ body{
     font-family:var(--font-titulo);
     margin:50px;
     color:var(--ouro);
-    font-size;50px;
+    font-size:50px;
 }
 
 .parametro-senha-titulo {
@@ -112,14 +111,14 @@ label {
 }
 
 .barra {
-      background-color: var(--azul-claro)
+      background-color: var(--azul-claro);
       height:30px;
       width:100%;
 }
 
 .fraca {
     width:25%;
-    background-color:red:
+    background-color:red;
 }
 
 .parametro-senha-textos {

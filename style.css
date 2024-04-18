@@ -6,7 +6,7 @@ body{
 
 :root{
     --font-titulo:"Dancing Script", cursive;
-    --rosa:hotpink;
+    --rosa:rgba(60, 255, 70, 0.445);
     --ouro:gold;
     --cinza:gray;
     --verde:chartreuse;
